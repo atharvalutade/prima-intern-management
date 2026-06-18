@@ -1,0 +1,1 @@
+GRANT EXECUTE ON FUNCTION public.verify_admin_signup_code(text) TO anon, authenticated;
